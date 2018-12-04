@@ -1,0 +1,6 @@
+[submodule "hardware/esp32/v1.0"]
+	path = hardware/esp32/v1.0
+	url = https://github.com/espressif/arduino-esp32.git
+[submodule "libraries/AsyncTcp"]
+	path = libraries/AsyncTcp
+	url = https://github.com/me-no-dev/AsyncTCP.git
