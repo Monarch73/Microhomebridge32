@@ -17,5 +17,9 @@
   <ItemGroup>
     <None Include="Microhomebridge32.ino" />
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClInclude Include="__vm\.Microhomebridge32.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
